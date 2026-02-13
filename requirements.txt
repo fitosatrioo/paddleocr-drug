@@ -1,0 +1,7 @@
+paddlepaddle
+paddleocr
+opencv-python
+pillow
+numpy
+shapely
+pyclipper
