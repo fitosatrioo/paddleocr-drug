@@ -109,8 +109,8 @@ def process_image(image_path, output_dir):
         print(f"  ERROR processing {image_path.name}: {str(e)}\n")
 
 def main():
-    input_dir = Path("sample obat")
-    output_dir = Path("output")
+    input_dir = Path("sample obat/Abemaciclib")
+    output_dir = Path("output/Abemaciclib")
     output_dir.mkdir(exist_ok=True)
     
     if not input_dir.exists():
