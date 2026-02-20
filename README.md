@@ -42,15 +42,15 @@ Berikut contoh output dari `train.py`. Gambar kiri menunjukkan bounding box pada
 
 **Abacavir**
 
-![Abacavir OCR Result](output/Abacavir/result_image_1.jpg)
+![Abacavir OCR Result](output/Abacavir/result_image_2.jpg)
 
 **Acetazolamide**
 
-![Acetazolamide OCR Result](output/Acetazolamide/result_image_218.png)
+![Acetazolamide OCR Result](output/Acetazolamide/result_image_250.jpg)
 
 **Acetin**
 
-![Acetin OCR Result](output/Acetin/result_image_262.jpg)
+![Acetin OCR Result](output/Acetin/result_image_275.jpg)
 
 ## Metode Klasifikasi
 
