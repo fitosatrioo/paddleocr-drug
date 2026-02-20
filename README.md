@@ -1,4 +1,4 @@
-# PaddleOCR Drug Name Detection
+<h1 align="center">PaddleOCR Drug Name Detection</h1>
 
 Sistem deteksi dan klasifikasi nama obat dari gambar kemasan menggunakan PaddleOCR dan Damerau-Levenshtein distance matching.
 
