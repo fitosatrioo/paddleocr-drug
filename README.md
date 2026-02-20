@@ -46,7 +46,7 @@ Berikut contoh output dari `train.py`. Gambar kiri menunjukkan bounding box pada
 
 **Acetazolamide**
 
-![Acetazolamide OCR Result](output/Acetazolamide/result_image_229.jpeg)
+![Acetazolamide OCR Result](output/Acetazolamide/result_image_230.jpg)
 
 **Acetin**
 
